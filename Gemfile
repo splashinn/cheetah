@@ -20,6 +20,14 @@ gem "sprockets", ">= 3.0.0"
 gem "suspenders"
 gem "title"
 gem "uglifier"
+gem 'bootstrap'
+gem 'active_model_serializers'
+gem 'simple_form'
+gem 'shrine'
+gem 'cancancan'
+gem 'kaminari'
+gem 'foreman'
+gem 'ahoy_matey'
 
 group :development do
   gem "listen"
