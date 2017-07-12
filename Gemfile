@@ -27,7 +27,6 @@ gem 'shrine'
 gem 'cancancan'
 gem 'kaminari'
 gem 'foreman'
-gem 'ahoy_matey'
 
 group :development do
   gem "listen"
