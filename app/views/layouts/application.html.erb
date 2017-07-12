@@ -13,8 +13,8 @@
   <%= stylesheet_link_tag :application, media: "all" %>
   <%= csrf_meta_tags %>
 </head>
-<nav class="navbar">
-  
+<nav class="navbar fixed-top navbar-light bg-faded">
+  <%= link_to image_tag('ICD-logo2.svg'), root_path, class: 'navbar-brand' %>
 </nav>
 <hr>
 <body class="<%= body_class %> container-fluid">
