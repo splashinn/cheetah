@@ -1,11 +1,10 @@
-# Cheetah
+# Cheetah Spots
 > Web application for International Cheetah Day, 04 Dec 2017
 
 ## Purpose of application
 - To raise awareness for International Cheetah Day
 - To raise donations for the Cheetah Conservation Foundation to help with their in-field work they do in Namibia
 > Check out more information about the foundation and the work they do [here](https://cheetah.org/)
-
 
 ## Getting Started
 
