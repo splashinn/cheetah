@@ -22,11 +22,11 @@ gem "title"
 gem "uglifier"
 gem 'bootstrap'
 gem 'active_model_serializers'
-gem 'simple_form'
 gem 'shrine'
 gem 'cancancan'
 gem 'kaminari'
 gem 'foreman'
+gem 'webpacker', '~> 3.0'
 
 group :development do
   gem "listen"
